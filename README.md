@@ -1,8 +1,8 @@
 # BACK-END
-Bem Vindos ao meu perfil 
+_Bem Vindos ao meu perfil_
 Meu nome é Ezikiel
--Estou estudando programação BACK END
--Uso esse espaço para deixar meus projetos desenvolvidas
+- Estou estudando programação BACK END
+- Uso esse espaço para deixar meus projetos desenvolvidas
  # Voce entra em contato comigo 📧
  luizeziquielj54@gmail.com
 
